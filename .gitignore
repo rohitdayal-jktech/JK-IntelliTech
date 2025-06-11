@@ -13,3 +13,6 @@ __pycache__/
 
 # VSCode config (optional)
 .vscode/
+
+
+frontend/node_modules
