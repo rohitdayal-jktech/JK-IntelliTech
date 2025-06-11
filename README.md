@@ -59,7 +59,7 @@ Jk-intelliTech/
 │
 ├── .gitignore
 ├── README.md                        # Project overview (combined or separate)
-└── Jk-intteliTech.pptx
+└── Git_Exercise.pptx
  
 
 
