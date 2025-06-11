@@ -1,4 +1,6 @@
-# 🍲 Food Recipe Book Backend
+#Project Description
+
+## 🍲 Food Recipe Backend
 
 This is the backend for a simple food recipe book application built with **FastAPI**.
 
@@ -17,13 +19,8 @@ This is the backend for a simple food recipe book application built with **FastA
 3. Install dependencies  
 4. Start the FastAPI server
 
-```bash
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-uvicorn backend.main:app --reload
 
-# 🍽️ Food Recipe Book – Frontend
+## 🍽️ Food Recipe Book – Frontend
 
 This is the frontend for the **Food Recipe Book** web application built using **React**. It allows users to browse, search, and add delicious recipes. It communicates with the FastAPI backend via RESTful APIs.
 
@@ -80,8 +77,13 @@ Jk-intelliTech/
 ## 🧑‍💻 Getting Started
 
 ### 1. Clone the Repository
-
 ```bash
-git clone <a href="https://github.com/rohitdayal-jktech" rel="noreferrer noopener" title="https://github.com/rohitdayal-jktech" target="_blank">https://github.com/rohitdayal-jktech</a>/Jk-inttelitech.git
+git clone https://github.com/rohitdayal-jktech/JK-IntelliTech.git
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+uvicorn backend.main:app --reload
+
 cd food-recipe-book/frontend
+npm start
  
