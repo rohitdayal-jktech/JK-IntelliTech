@@ -1,0 +1,15 @@
+# Ignore virtual environment
+venv/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Env files
+.env
+
+# OS/mac-specific files
+.DS_Store
+
+# VSCode config (optional)
+.vscode/

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Pasta",
+    "category": "veg",
+    "instructions": "Boil pasta. Add sauce."
+  },
+  {
+    "id": 2,
+    "title": "Chocolate Cake",
+    "category": "dessert",
+    "instructions": "Mix ingredients. Bake for 30 minutes."
+  }
+]
